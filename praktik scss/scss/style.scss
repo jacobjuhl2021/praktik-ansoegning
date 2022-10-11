@@ -22,6 +22,7 @@
 #HTML{color: f.$color-html;}
 #CSS{color: f.$color-css;}
 #JS{color: f.$color-js;}
+#JS{color: wheat;}
 
 .intro-grid-billede {
 	grid-column: 2;
@@ -34,6 +35,11 @@
 		border: 4px solid;
 		border: 0.2vw solid f.$color-html;
 	}
+}
+
+.boks {
+	background-color: aqua;
+	
 }
 
 
